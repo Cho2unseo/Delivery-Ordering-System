@@ -1,4 +1,4 @@
-# 🚚AI 검증 비즈니스 프로젝트 
+# 🚚 AI 검증 비즈니스 프로젝트 
 
 ## ✨ 프로젝트 개요
 - 프로젝트명: '요기요저기요'
@@ -17,7 +17,7 @@
 
 ## ✨ 설계 산출물
 ### 🎯 1. 도메인 다이어그램
-<img width="768" height="393" alt="Group 2" src="https://github.com/user-attachments/assets/1a2fc472-901a-413d-9480-1b19d611463e" />
+<img width="910" height="501" alt="스크린샷 2025-10-18 오후 6 25 02" src="https://github.com/user-attachments/assets/aba99b42-b42e-479e-8fd8-00848a470800" />
 
 ### 🎯 2. AWS 기반의 운영 환경 다이어그램
 <img width="601" height="861" alt="제목 없는 다이어그램 drawio (3)" src="https://github.com/user-attachments/assets/b778ea4a-9663-4d8d-b6b6-422dac4026a2" />
