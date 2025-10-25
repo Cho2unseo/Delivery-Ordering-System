@@ -13,7 +13,7 @@
 | Framework | Spring Boot 3.5.5 | 
 | Repository | H2 In-memory, PostgreSQL | 
 | Build Tool | Gradle | 
-| DevOps - dev | EC2, RDS(PostreSQL), Docker, GihubActions, (Nginx) | 
+| DevOps - dev | EC2, RDS(PostgreSQL), Docker, GihubActions, Nginx | 
 
 ## ✨ 설계 산출물
 ### 🎯 1. 도메인 다이어그램
